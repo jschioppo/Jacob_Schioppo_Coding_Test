@@ -1,0 +1,3 @@
+bike with training wheels: 13.25
+Sales Taxes: 1.25
+Total: 13.25
